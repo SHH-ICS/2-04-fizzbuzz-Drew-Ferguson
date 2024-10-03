@@ -16,5 +16,5 @@ for myNumber in range(1, 33):  # Start at 1, and go up to 32 inclusive
         result += "Buzz\n"
     else:
         result += str(myNumber) + "\n"
-
+        
 print(result)
